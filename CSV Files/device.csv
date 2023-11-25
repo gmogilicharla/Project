@@ -1,0 +1,5 @@
+DeviceID,DeviceName,Type,Quantity
+1,Web Server,External Network Layer,3
+2,External Firewall,External Network Layer,5
+3,Application Server,Application and Internal Network Layer,3
+4,Email Server,Application and Internal Network Layer,4

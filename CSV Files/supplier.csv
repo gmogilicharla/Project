@@ -1,0 +1,6 @@
+SupplierID,SupplierName,Contact,ProductID
+1,CircuitTech Global,contact@circuittech.com,1
+2,ElectroniParts Inc,info@electroniparts.com,2
+3,PlastiMold Corp,sales@plastimoldcorp.com,1
+4,EcoPlastics International,info@ecoplasticsintl.com,3
+5,PowerCell Enterprises,info@powercell.com,2

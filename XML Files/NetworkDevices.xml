@@ -1,0 +1,23 @@
+<NetworkDevices>
+    <Device>
+        <DeviceID>401</DeviceID>
+        <DeviceName>Web Server</DeviceName>
+        <Type>External Network Layer</Type>
+        <Location>San Francisco</Location>
+        <IPAddress>192.168.1.10</IPAddress>
+    </Device>
+    <Device>
+        <DeviceID>402</DeviceID>
+        <DeviceName>External Firewall</DeviceName>
+        <Type>External Network Layer</Type>
+        <Location>Los Angeles</Location>
+        <IPAddress>192.168.1.20</IPAddress>
+    </Device>
+    <Device>
+        <DeviceID>403</DeviceID>
+        <DeviceName>Application Server</DeviceName>
+        <Type>Application and Internal Network Layer</Type>
+        <Location>New York City</Location>
+        <IPAddress>192.168.1.30</IPAddress>
+    </Device>
+</NetworkDevices>

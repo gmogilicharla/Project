@@ -1,0 +1,23 @@
+<Suppliers>
+    <Supplier>
+        <SupplierID>101</SupplierID>
+        <SupplierName>CircuitTech Global</SupplierName>
+        <Location>USA</Location>
+        <ContactInformation>contact@circuittech.com</ContactInformation>
+        <ProductsSupplied>Integrated circuits and microcontrollers</ProductsSupplied>
+    </Supplier>
+    <Supplier>
+        <SupplierID>102</SupplierID>
+        <SupplierName>ElectroniParts Inc</SupplierName>
+        <Location>Taiwan</Location>
+        <ContactInformation>info@electroniparts.com</ContactInformation>
+        <ProductsSupplied>Connectors and electronic accessories</ProductsSupplied>
+    </Supplier>
+    <Supplier>
+        <SupplierID>103</SupplierID>
+        <SupplierName>PlastiMold Corp</SupplierName>
+        <Location>USA</Location>
+        <ContactInformation>sales@plastimoldcorp.com</ContactInformation>
+        <ProductsSupplied>High-quality plastic casings</ProductsSupplied>
+    </Supplier>
+</Suppliers>

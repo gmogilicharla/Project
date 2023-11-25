@@ -1,0 +1,23 @@
+<Products>
+    <Product>
+        <ProductID>1</ProductID>
+        <ProductName>Laptop</ProductName>
+        <Category>Electronics</Category>
+        <Price>800.00</Price>
+        <Description>A high-performance laptop with the latest specifications</Description>
+    </Product>
+    <Product>
+        <ProductID>2</ProductID>
+        <ProductName>Wireless Mouse</ProductName>
+        <Category>Accessories</Category>
+        <Price>25.99</Price>
+        <Description>Ergonomic wireless mouse for seamless navigation</Description>
+    </Product>
+    <Product>
+        <ProductID>3</ProductID>
+        <ProductName>Smartphone</ProductName>
+        <Category>Electronics</Category>
+        <Price>599.99</Price>
+        <Description>5G smartphone with a stunning display and powerful camera</Description>
+    </Product>
+</Products>

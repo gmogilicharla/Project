@@ -1,0 +1,23 @@
+<Employees>
+    <Employee>
+        <EmployeeID>201</EmployeeID>
+        <EmployeeName>John Doe</EmployeeName>
+        <Role>Product Engineer</Role>
+        <Location>New York City</Location>
+        <ContactInformation>johndoe@email.com</ContactInformation>
+    </Employee>
+    <Employee>
+        <EmployeeID>202</EmployeeID>
+        <EmployeeName>Lisa Smith</EmployeeName>
+        <Role>Marketing Specialist</Role>
+        <Location>Los Angeles</Location>
+        <ContactInformation>lisasmith@email.com</ContactInformation>
+    </Employee>
+    <Employee>
+        <EmployeeID>203</EmployeeID>
+        <EmployeeName>Michael Johnson</EmployeeName>
+        <Role>Customer Support</Role>
+        <Location>Seattle</Location>
+        <ContactInformation>michael@email.com</ContactInformation>
+    </Employee>
+</Employees>

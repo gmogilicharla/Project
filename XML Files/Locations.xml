@@ -1,0 +1,23 @@
+<Locations>
+    <Location>
+        <LocationID>301</LocationID>
+        <LocationName>San Francisco HQ</LocationName>
+        <Address>123 Tech Street</Address>
+        <City>San Francisco</City>
+        <State>CA</State>
+    </Location>
+    <Location>
+        <LocationID>302</LocationID>
+        <LocationName>New York City Office</LocationName>
+        <Address>456 Broadway</Address>
+        <City>New York</City>
+        <State>NY</State>
+    </Location>
+    <Location>
+        <LocationID>303</LocationID>
+        <LocationName>Los Angeles Office</LocationName>
+        <Address>789 Tech Avenue</Address>
+        <City>Los Angeles</City>
+        <State>CA</State>
+    </Location>
+</Locations>
